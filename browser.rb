@@ -1,6 +1,6 @@
 # launchy 친구를 불러온다.
 # launchy에게 브라우저 열어달라고 한다.
-
+# launchy 짱짱맨
 require "launchy"
 require "uri"
 
